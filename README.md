@@ -1,3 +1,3 @@
 # wiki-test
 
-![test](https://raw.githubusercontent.com/wiki/s016/wiki-test/images/ERD.drawio.png)
+![GitHub-Mark-Light](https://raw.githubusercontent.com/wiki/s016/wiki-test/images/ERD.drawio.png)
